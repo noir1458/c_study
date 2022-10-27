@@ -1,0 +1,52 @@
+-C-
+1. 연산자란? - 우선순위, 피연산자, 반환값 등에 대한 설명
+2. 자료형의 의미, 형변환, 변수가 메모리에 쓰이고 읽히는 방법
+3. 구조체, 열거형, 공용체
+4. expression과 statement의 차이
+5. 함수와 스코프
+6. 포인터의 개념과 활용
+7. 동적할당 및 해제
+8. 파일 입출력
+9. 예외 처리
+10. 리터럴
+-java-
+대충 객체지향 뭐시깽이
+js or C#
+일급 객체, 람다, 타입 추론 등등...
+
+
+//
+
+stdio: standard i/o
+
+conio: console i/o
+
+fcntl: file control
+
+unistd: unix standard
+
+printf: print w/ format
+
+sprintf: print to string w/ format
+
+scanf: scan w/ format
+
+getch: get character
+
+getche: get character and echoing
+
+fgets: get string from file
+
+fputs: put string
+
+strcmp: string comparison
+
+strcat: string concatenation
+
+strpos: string position
+
+WCHAR: wide character
+
+LPCTSTR: long pointer of constant text string
+
+MBCS: multi-byte character set
