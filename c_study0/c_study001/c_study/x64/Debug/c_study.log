@@ -1,0 +1,4 @@
+﻿  10_04.c
+C:\Users\noir1\Documents\git\c_study\c_study001\c_study001\c_study\10_04.c(10,8): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\noir1\Documents\git\c_study\c_study001\c_study001\c_study\10_04.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c_study.vcxproj -> C:\Users\noir1\Documents\git\c_study\c_study001\c_study001\x64\Debug\c_study.exe
